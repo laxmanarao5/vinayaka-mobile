@@ -10,6 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^21.13.0",
+    "@react-native-firebase/database": "^21.13.0",
+    "@react-native-firebase/firestore": "^21.13.0",
+    "bcryptjs": "^3.0.2",
+    "firebase": "^11.6.0",
     "react": "19.0.0",
     "react-native": "0.78.1"
   },
